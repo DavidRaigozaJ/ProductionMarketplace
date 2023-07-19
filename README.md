@@ -6,9 +6,9 @@ check the scaffold version here
 
 https://nextjs-davidraigozaj.vercel.app/
 
-´´'
+```
 git clone https://github.com/DavidRaigozaJ/ProductionMarketplace/
 cd ProductionMarketplace
 yarn chain
 yarn serve
-´´´
+```
